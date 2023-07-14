@@ -52,6 +52,7 @@ section {
     background-color: var(--cor2);
     color: white;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .botao-nota:hover {
